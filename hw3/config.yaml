@@ -1,0 +1,7 @@
+FOLDER_IN: /home/user/tst
+FOLDER_OUT: /home/user/out
+FOLDER_EXT: /home/user/folder1
+FOLDER_EXT2: /home/user/folder2
+count: 3
+size: 5M
+extension: zip
